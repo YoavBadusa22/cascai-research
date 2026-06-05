@@ -1,0 +1,85 @@
+task,model,skill_type,run,input_tokens,output_tokens,duration_sec,accuracy,correct,total_tests,solution_type,uses_velocity,error
+task_004,haiku,no_skill,1,2098,1319,12.19,0.725,29,40,spherical,True,
+task_004,haiku,manual_skill,1,2494,3000,18.74,0.0,0,40,unknown,False,"'[' was never closed (<string>, line 139)"
+task_004,haiku,auto_skill,1,2189,3000,18.35,0.85,34,40,spherical,True,
+task_004,sonnet,no_skill,1,2099,1209,19.82,1.0,40,40,coulomb,True,
+task_004,sonnet,manual_skill,1,2495,1709,25.75,0.0,0,40,unknown,False,function not found
+task_004,sonnet,auto_skill,1,2190,3000,46.35,0.0,0,40,unknown,False,"'(' was never closed (<string>, line 110)"
+task_004,haiku,no_skill,2,2098,2084,15.47,0.525,21,40,lorentz,True,
+task_004,haiku,manual_skill,2,2494,3000,17.99,0.0,0,40,lorentz,True,
+task_004,haiku,auto_skill,2,2189,2989,18.42,0.95,38,40,spherical,True,
+task_004,sonnet,no_skill,2,2099,1434,25.32,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,2,2495,851,14.89,1.0,40,40,coulomb,True,
+task_004,sonnet,auto_skill,2,2190,3000,44.04,0.0,0,40,unknown,False,function not found
+task_004,haiku,no_skill,3,2098,1793,13.1,1.0,40,40,lorentz,True,
+task_004,haiku,manual_skill,3,2494,3000,18.32,0.0,0,40,lorentz,True,
+task_004,haiku,auto_skill,3,2189,2779,17.64,0.0,0,40,unknown,False,function not found
+task_004,sonnet,no_skill,3,2099,1213,21.87,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,3,2495,1106,18.06,1.0,40,40,spherical,True,
+task_004,sonnet,auto_skill,3,2190,2999,46.88,1.0,40,40,coulomb,True,
+task_004,haiku,no_skill,4,2098,2176,14.78,0.775,31,40,spherical,True,
+task_004,haiku,manual_skill,4,2494,1017,8.98,1.0,40,40,lorentz,True,
+task_004,haiku,auto_skill,4,2189,3000,19.14,0.75,30,40,spherical,True,
+task_004,sonnet,no_skill,4,2099,2912,43.55,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,4,2495,1070,18.22,1.0,40,40,coulomb,True,
+task_004,sonnet,auto_skill,4,2190,3000,42.97,0.0,0,40,unknown,False,function not found
+task_004,haiku,no_skill,5,2098,2793,17.58,1.0,40,40,spherical,True,
+task_004,haiku,manual_skill,5,2494,3000,18.14,0.0,0,40,unknown,False,"'(' was never closed (<string>, line 144)"
+task_004,haiku,auto_skill,5,2189,3000,18.19,0.95,38,40,spherical,True,
+task_004,sonnet,no_skill,5,2099,1155,20.57,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,5,2495,1011,16.9,1.0,40,40,spherical,True,
+task_004,sonnet,auto_skill,5,2190,3000,42.88,0.0,0,40,unknown,False,function not found
+task_004,haiku,no_skill,6,2098,1372,11.04,0.0,0,40,unknown,False,cannot unpack non-iterable ellipsis object
+task_004,haiku,manual_skill,6,2494,1143,9.71,1.0,40,40,lorentz,True,
+task_004,haiku,auto_skill,6,2189,2968,18.14,0.95,38,40,spherical,True,
+task_004,sonnet,no_skill,6,2099,1652,28.52,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,6,2495,1126,19.52,1.0,40,40,lorentz,True,
+task_004,sonnet,auto_skill,6,2190,3000,43.1,0.0,0,40,unknown,False,function not found
+task_004,haiku,no_skill,7,2098,2859,19.04,1.0,40,40,spherical,True,
+task_004,haiku,manual_skill,7,2494,3000,18.94,0.0,0,40,lorentz,True,
+task_004,haiku,auto_skill,7,2189,2999,18.35,0.95,38,40,spherical,True,
+task_004,sonnet,no_skill,7,2099,1202,20.74,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,7,2495,1137,18.75,1.0,40,40,lorentz,True,
+task_004,sonnet,auto_skill,7,2190,3000,44.12,0.0,0,40,unknown,False,function not found
+task_004,haiku,no_skill,8,2098,1245,10.23,0.8,32,40,spherical,True,
+task_004,haiku,manual_skill,8,2494,3000,18.3,0.0,0,40,unknown,False,"'(' was never closed (<string>, line 153)"
+task_004,haiku,auto_skill,8,2189,3000,18.22,0.7,28,40,spherical,True,
+task_004,sonnet,no_skill,8,2099,1277,23.24,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,8,2495,962,16.76,1.0,40,40,spherical,True,
+task_004,sonnet,auto_skill,8,2190,1705,26.88,0.0,0,40,unknown,False,function not found
+task_004,haiku,no_skill,9,2098,1867,16.09,0.0,0,40,unknown,False,setting an array element with a sequence. The requested array has an inhomogeneo
+task_004,haiku,manual_skill,9,2494,1498,12.77,1.0,40,40,lorentz,True,
+task_004,haiku,auto_skill,9,2189,3000,18.63,1.0,40,40,coulomb,True,
+task_004,sonnet,no_skill,9,2099,1199,21.2,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,9,2495,938,16.13,1.0,40,40,spherical,True,
+task_004,sonnet,auto_skill,9,2190,3000,45.02,0.0,0,40,unknown,False,"'(' was never closed (<string>, line 119)"
+task_004,haiku,no_skill,10,2098,1302,10.7,0.8,32,40,coulomb,True,
+task_004,haiku,manual_skill,10,2494,3000,18.34,0.0,0,40,unknown,False,"'(' was never closed (<string>, line 155)"
+task_004,haiku,auto_skill,10,2189,3000,20.16,0.9,36,40,spherical,True,
+task_004,sonnet,no_skill,10,2099,3000,40.74,0.0,0,40,unknown,False,function not found
+task_004,sonnet,manual_skill,10,2495,911,16.3,1.0,40,40,coulomb,True,
+task_004,sonnet,auto_skill,10,2190,1836,31.02,0.0,0,40,unknown,False,function not found
+task_004,haiku,no_skill,11,2098,1660,13.46,0.0,0,40,unknown,False,function not found
+task_004,haiku,manual_skill,11,2494,1042,8.82,1.0,40,40,lorentz,True,
+task_004,haiku,auto_skill,11,2189,3000,17.68,0.0,0,40,unknown,False,"unterminated f-string literal (detected at line 154) (<string>, line 154)"
+task_004,sonnet,no_skill,11,2099,3000,44.82,0.0,0,40,unknown,False,"'{' was never closed (<string>, line 88)"
+task_004,sonnet,manual_skill,11,2495,976,16.32,1.0,40,40,spherical,True,
+task_004,sonnet,auto_skill,11,2190,1790,29.82,0.0,0,40,unknown,False,function not found
+task_004,haiku,no_skill,12,2098,3000,18.98,0.0,0,40,unknown,False,"unterminated f-string literal (detected at line 147) (<string>, line 147)"
+task_004,haiku,manual_skill,12,2494,1288,11.31,1.0,40,40,lorentz,True,
+task_004,haiku,auto_skill,12,2189,3000,17.72,0.85,34,40,spherical,True,
+task_004,sonnet,no_skill,12,2099,1221,22.74,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,12,2495,1054,17.6,1.0,40,40,spherical,True,
+task_004,sonnet,auto_skill,12,2190,3000,45.16,0.0,0,40,unknown,False,function not found
+task_004,haiku,no_skill,13,2098,3000,17.38,0.0,0,40,lorentz,True,
+task_004,haiku,manual_skill,13,2494,3000,26.46,0.0,0,40,lorentz,True,
+task_004,haiku,auto_skill,13,2189,3000,17.5,0.8,32,40,spherical,True,
+task_004,sonnet,no_skill,13,2099,2963,45.41,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,13,2495,814,14.19,1.0,40,40,spherical,True,
+task_004,sonnet,auto_skill,13,2190,3000,43.21,0.0,0,40,unknown,False,function not found
+task_004,haiku,no_skill,14,2098,3000,18.34,0.0,0,40,unknown,False,f-string: newlines are not allowed in format specifiers for single quoted f-stri
+task_004,haiku,manual_skill,14,2494,1146,9.24,1.0,40,40,lorentz,True,
+task_004,haiku,auto_skill,14,2189,2874,18.78,1.0,40,40,spherical,True,
+task_004,sonnet,no_skill,14,2099,1015,18.45,1.0,40,40,spherical,True,
+task_004,sonnet,manual_skill,14,2495,959,18.24,1.0,40,40,spherical,True,
+task_004,sonnet,auto_skill,14,2190,3000,28.94,0.0,0,40,unknown,False,"'(' was never closed (<string>, line 121)"

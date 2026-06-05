@@ -1,0 +1,31 @@
+task,skill_type,run,input_tokens,output_tokens,duration_sec,accuracy,correct,total_tests,solution_type,error
+task_003,no_skill,1,794,1500,11.46,0.0,0,40,unknown,"'(' was never closed (<string>, line 67)"
+task_003,manual_skill,1,1051,1500,7.75,0.0,0,40,unknown,"'(' was never closed (<string>, line 81)"
+task_003,auto_skill,1,853,1500,10.18,0.925,37,40,polar,
+task_003,no_skill,2,794,1500,9.44,0.0,0,40,unknown,classify_point not found
+task_003,manual_skill,2,1051,1500,7.38,0.0,0,40,unknown,"'(' was never closed (<string>, line 82)"
+task_003,auto_skill,2,853,1500,8.79,0.0,0,40,unknown,classify_point not found
+task_003,no_skill,3,794,1391,11.32,0.575,23,40,linear,
+task_003,manual_skill,3,1051,1500,8.14,0.0,0,40,unknown,"'(' was never closed (<string>, line 93)"
+task_003,auto_skill,3,853,1500,8.9,0.0,0,40,unknown,classify_point not found
+task_003,no_skill,4,794,1500,10.19,0.0,0,40,unknown,"'(' was never closed (<string>, line 97)"
+task_003,manual_skill,4,1051,1500,6.98,0.0,0,40,unknown,"'[' was never closed (<string>, line 86)"
+task_003,auto_skill,4,853,1500,10.81,0.0,0,40,unknown,classify_point not found
+task_003,no_skill,5,794,1500,7.32,0.0,0,40,unknown,classify_point not found
+task_003,manual_skill,5,1051,1500,9.09,1.0,40,40,physics,
+task_003,auto_skill,5,853,1500,8.77,0.0,0,40,unknown,classify_point not found
+task_003,no_skill,6,794,1500,8.19,0.0,0,40,unknown,classify_point not found
+task_003,manual_skill,6,1051,1500,8.41,1.0,40,40,physics,
+task_003,auto_skill,6,853,1500,9.07,0.0,0,40,unknown,classify_point not found
+task_003,no_skill,7,794,1500,9.02,0.0,0,40,unknown,classify_point not found
+task_003,manual_skill,7,1051,1500,8.53,0.0,0,40,unknown,"unterminated f-string literal (detected at line 99) (<string>, line 99)"
+task_003,auto_skill,7,853,1500,7.87,0.0,0,40,unknown,classify_point not found
+task_003,no_skill,8,794,1397,11.68,1.0,40,40,polar,
+task_003,manual_skill,8,1051,1500,7.8,0.0,0,40,unknown,"'[' was never closed (<string>, line 81)"
+task_003,auto_skill,8,853,1500,9.77,0.0,0,40,unknown,classify_point not found
+task_003,no_skill,9,794,1500,8.67,0.0,0,40,unknown,classify_point not found
+task_003,manual_skill,9,1051,1500,7.96,0.0,0,40,unknown,"'(' was never closed (<string>, line 85)"
+task_003,auto_skill,9,853,1500,7.79,1.0,40,40,polar,
+task_003,no_skill,10,794,1500,8.93,0.0,0,40,unknown,classify_point not found
+task_003,manual_skill,10,1051,1500,8.01,0.0,0,40,unknown,"'(' was never closed (<string>, line 97)"
+task_003,auto_skill,10,853,1500,10.34,0.0,0,40,unknown,"'(' was never closed (<string>, line 115)"
