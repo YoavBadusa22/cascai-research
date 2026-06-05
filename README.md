@@ -74,4 +74,4 @@ Over-specified SKILL files cause capable models to generate architecturally comp
 ## Author
 
 Yoav Badusa — Independent AI Safety Researcher  
-GitHub: [github.com/YoavBadusa22/Cascai-producct-main](https://github.com/YoavBadusa22/Cascai-producct-main)
+GitHub: [github.com/YoavBadusa22/Cascai-producct-main]https://github.com/YoavBadusa22/cascai-research
