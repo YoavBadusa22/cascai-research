@@ -458,5 +458,3 @@ calibrated to specific model–task combinations.
   in Large Language Models. NeurIPS.
 - Hornik et al. (1989). Multilayer Feedforward Networks are Universal
   Approximators. Neural Networks.
-- Maxwell, J.C. (1865). A Dynamical Theory of the Electromagnetic Field.
-  Philosophical Transactions of the Royal Society.
